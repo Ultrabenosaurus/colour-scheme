@@ -104,7 +104,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>name</key>
             <string>Supporting Constant</string>
             <key>scope</key>
-            <string>support.constant.std.php</string>
+            <string>support.constant</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -265,7 +265,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>name</key>
             <string>Library function</string>
             <key>scope</key>
-            <string>support.function</string>
+            <string>support.function, support.class</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -326,13 +326,35 @@ Find more at : https://github.com/moldcraft/colour-scheme
         </dict>
         <dict>
             <key>name</key>
-            <string>Brackets</string>
+            <string>Operators</string>
             <key>scope</key>
-            <string>brackets.curly, brackets.round, brackets.square, brackets.angle</string>
+            <string>keyword.operator, keyword.operator.assignment, keyword.operator.class, keyword.operator.comparison, keyword.operator.string, keyword.operator.logical</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#000</string>
+                <string>#ffffff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Brackets</string>
+            <key>scope</key>
+            <string>meta.brace.curly, meta.brace.round, meta.brace.square, meta.brace.angle, brackets.curly, brackets.round, brackets.square, brackets.angle, punctuation.definition.parameters.begin, punctuation.definition.parameters.end, meta.function</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#666666</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Punctuation</string>
+            <key>scope</key>
+            <string>punctuation.terminator, punctuation.terminator.expression, punctuation.terminator.expression, meta.delimiter.object.comma</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A7A494</string>
             </dict>
         </dict>
     </array>

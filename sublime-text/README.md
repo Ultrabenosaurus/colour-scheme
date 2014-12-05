@@ -19,4 +19,12 @@ Unfortunately, due to the way in which Sublime's scope processing works, it is i
 
 # To Do
 
-* Try to get characters `()[]` (and `{}`?) to be a slight grey rather than white or whatever
+* Try to get brackets `()[]{}` to be grey rather than white.
+  * `()` on function declaration for PHP done
+  * all for JS done
+* Work on HTML/XML, JavaScript, and CSS specifics.
+* Other languages:
+  * YAML
+  * Ruby
+  * Python
+  * Markdown

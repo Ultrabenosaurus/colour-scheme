@@ -18,6 +18,10 @@ Argument Variable | ![c](http://placehold.it/50x14/77DAFF.png&text=%20) | `#77DA
 Function / Method / Attribute | ![c](http://placehold.it/50x14/F4DC6E.png&text=%20) | `#F4DC6E`
 Caret | ![c](http://placehold.it/50x14/00FF00.png&text=%20) | `#00FF00`
 Caret row | ![c](http://placehold.it/50x14/101010.png&text=%20) | `#101010`
+Classes | ![c](http://placehold.it/50x14/FFFFFF.png&text=%20) | `#FFFFFF`
+Punctuation | ![c](http://placehold.it/50x14/A7A494.png&text=%20) | `#A7A494`
+Operators | ![c](http://placehold.it/50x14/FFFFFF.png&text=%20) | `#FFFFFF`
+Brackets | ![c](http://placehold.it/50x14/666666.png&text=%20) | `#666666`
 TODO/FIXME | ![c](http://placehold.it/50x14/FF0000.png&text=%20) | `#FF0000`
 
 ## IDE
